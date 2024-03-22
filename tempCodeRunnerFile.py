@@ -1,0 +1,1 @@
+e the text with timestamps to a text file
